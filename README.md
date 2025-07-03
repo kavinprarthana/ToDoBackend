@@ -1,4 +1,4 @@
-# 📝 MERN To-Do App
+#  MERN To-Do App
 
 A simple and intuitive To-Do application built with the **MERN Stack (MongoDB, Express, React, Node.js)**. This app helps users efficiently manage their daily tasks with features like task prioritization, status updates, and authentication.
 
@@ -6,24 +6,13 @@ A simple and intuitive To-Do application built with the **MERN Stack (MongoDB, E
 
 ## 🚀 Live Demo
 
-- 🌐 **Frontend**: [View Frontend](https://todofrontend-82sh.onrender.com)
-- 🛠️ **Backend API**: [View Backend](https://todobackend-1-gf60.onrender.com)
+-  **Frontend**: [View Frontend](https://todofrontend-82sh.onrender.com)
+-  **Backend API**: [View Backend](https://todobackend-1-gf60.onrender.com)
 
 ---
 
-## 📸 Screenshots
 
-### ✅ Task Dashboard  
-![Task Dashboard](./screenshots/dashboard.png)
-
-### 🔐 Login Page  
-![Login Page](./screenshots/login.png)
-
-> *(Add your screenshots to a `screenshots/` folder in your repo and use these filenames)*
-
----
-
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Tech | Description |
 |------|-------------|
@@ -36,36 +25,36 @@ A simple and intuitive To-Do application built with the **MERN Stack (MongoDB, E
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ **User Authentication** (Login/Signup)
-- 📝 **Add / Edit / Delete Tasks**
-- 📊 **Filter Tasks** by Status and Priority
-- 🎯 **Prioritize Tasks** (High, Medium, Low)
-- 📌 **Mark Tasks** as Complete or Pending
-- 🎨 Clean and Responsive UI
-
----
-
-## 💡 Why Use This App Over Others?
-
-- 🔐 **Secure Authentication**: Only you can view/edit your tasks.
-- ⚡ **Blazing Fast Performance**: Deployed with optimized build.
-- 🧠 **Smart Filters**: Instantly sort by priority and status.
-- 💻 **Cross-Platform**: Works on any modern browser/device.
-- 👶 **Beginner-Friendly**: Simple interface anyone can use.
+-  **User Authentication** (Login/Signup)
+-  **Add / Edit / Delete Tasks**
+-  **Filter Tasks** by Status and Priority
+-  **Prioritize Tasks** (High, Medium, Low)
+-  **Mark Tasks** as Complete or Pending
+-  Clean and Responsive UI
 
 ---
 
-## 🛠️ Local Setup Instructions
+##  Why Use This App Over Others?
+
+-  **Secure Authentication**: Only you can view/edit your tasks.
+-  **Blazing Fast Performance**: Deployed with optimized build.
+-  **Smart Filters**: Instantly sort by priority and status.
+-  **Cross-Platform**: Works on any modern browser/device.
+-  **Beginner-Friendly**: Simple interface anyone can use.
+
+---
+
+##  Local Setup Instructions
 
 Follow these steps to run the project locally:
 
 ### 1. Clone the repositories
 
 ```bash
-# Frontend
-git clone https://github.com/kavinprarthana/todoFrontend.git
-cd todoFrontend
+# Backend
+git clone https://github.com/kavinprarthana/ToDoBackend.git
+cd ToDoBackend
 npm install
-npm start
+npm run dev
